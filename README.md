@@ -2,7 +2,7 @@
 
 ## Links
 
-  Repo Link: https://github.com/theoneandonlyzako/
+  Repo Link: https://github.com/theoneandonlyzako/retail-back-end
   <br/>
   Demo Video Link: https://youtu.be/J1E1TSqqFPw
   <br/><br/>
