@@ -1,10 +1,10 @@
-# Retail Back-end<br/>
+# Retail back-end<br/>
 
 ## Links
 
   Repo Link: https://github.com/theoneandonlyzako/
   <br/>
-  Demo Video Link: https:
+  Demo Video Link: https://youtu.be/J1E1TSqqFPw
   <br/><br/>
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
@@ -54,8 +54,17 @@ Read, create, update and delete data from the Products, Categories, and Tags tab
   # Contact
   If you have any questions about the repo, open an issue or contact me directly at theoneandonlyzako@gmail.com or visit my website at zakstamps.com
     <br/><br/>
-  Demo Video Link: https:
+  ### Demo Video Link: https://youtu.be/J1E1TSqqFPw
+ 
   <br/></br>
-  ![img](./Site.gif)
+  **Get All**
+  ![img](assets/getAll.gif)
   <br/></br>
-  ![img](./demo.png)
+  **Get One**
+  ![img](assets/getOne.gif)
+  <br/></br>
+  **Update**
+  ![img](assets/Update.gif)
+   <br/></br>
+  **Delete**
+  ![img](assets/Delete.gif)
